@@ -4,6 +4,9 @@
     height: 600px;
     text-align: center;
     padding-top: 50px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
+
 
 }
 
@@ -11,13 +14,17 @@
     font-weight: 900;
     font-size: 60px;
     color: darkred;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
 
 }
 
 .header p {
     color: white;
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
 }
 
 .header button {
@@ -28,12 +35,15 @@
     margin-top: 50px;
     font-size: 20px;
     font-weight: 700;
+    border-radius: 15px;
 }
 
 .donate-today {
     text-align: center;
     margin-top: 70px;
     font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
 }
 
 .card {
@@ -85,11 +95,14 @@
     margin-top: 20px;
     font-size: 20px;
     font-weight: 700;
+    border-radius: 15px;
 }
 
 #donate-plan-title {
     text-align: center;
     margin-top: 50px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
 }
 
 #donate-plan-title h1 {
@@ -98,12 +111,14 @@
 
 #donate-plan-title p {
     font-size: 25px;
+
 }
 
 .donate-plan {
     display: flex;
     justify-content: center;
     align-items: center;
+
 
 }
 
@@ -114,6 +129,9 @@
     margin: 10px;
     padding: 15px;
     font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
+
 }
 
 .card-plan_2 {
@@ -123,6 +141,9 @@
     margin: 10px;
     padding: 15px;
     font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
+
 }
 
 .card-plan_3 {
@@ -132,6 +153,9 @@
     margin: 10px;
     padding: 15px;
     font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
+
 }
 
 .footer {
@@ -140,6 +164,9 @@
     text-align: center;
     padding: 10px;
     margin-top: 40px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
+
 }
 
 .footer h1 {
