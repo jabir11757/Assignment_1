@@ -13,7 +13,7 @@
 .header h1 {
     font-weight: 900;
     font-size: 60px;
-    color: darkred;
+    color: rgb(12, 11, 11);
     font-family: 'Abril Fatface', cursive;
     font-family: 'Fjalla One', sans-serif;
 
@@ -29,7 +29,7 @@
 
 .header button {
     color: black(255, 0, 0, 0.548);
-    background-color: darkred;
+    background-color: rgb(134, 64, 64);
     height: 50px;
     width: 150px;
     margin-top: 50px;
@@ -90,7 +90,7 @@
 
 .input-display button {
     color: black(255, 0, 0, 0.548);
-    background-color: darkred;
+    background-color: rgb(134, 64, 64);
     height: 50px;
     width: 150px;
     margin-top: 20px;
@@ -192,7 +192,7 @@
 }
 
 #submit {
-    background-color: darkred;
+    background-color: rgb(134, 64, 64);
     border: transparent;
     height: 42px;
     width: 130px;
