@@ -36,6 +36,7 @@
     font-size: 20px;
     font-weight: 700;
     border-radius: 15px;
+    border: transparent;
 }
 
 .donate-today {
@@ -96,6 +97,7 @@
     font-size: 20px;
     font-weight: 700;
     border-radius: 15px;
+    border: transparent;
 }
 
 #donate-plan-title {
@@ -156,6 +158,46 @@
     font-family: 'Abril Fatface', cursive;
     font-family: 'Fjalla One', sans-serif;
 
+}
+
+.updates-title {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#update-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.updates-items {
+    height: 200px;
+    width: 50%;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#email {
+    background-color: gainsboro;
+    border: transparent;
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+#submit {
+    background-color: darkred;
+    border: transparent;
+    height: 42px;
+    width: 130px;
+    margin-left: -2px;
+    border-radius: 5px;
 }
 
 .footer {
